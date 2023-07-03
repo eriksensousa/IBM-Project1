@@ -42,6 +42,9 @@ Using IBM Watson Studio and the data refinery tool, you will:
 - Each month, or all at once, the driver pays a fee, or premium, to the company.
 - A few things determine the cost of the policy, such as:
    > The type of car insured, particularly its safety record and how expensive it is to repair
+   
    > The driver’s record, for instance, the more speeding tickets the driver has incurred, the riskier the driver is
+   
    > The driver’s age, for instance, teenagers cost more to insure because they’re less experienced drivers, and therefore a bigger risk
+   
 - Lower-cost premiums are enjoyed by drivers with fewer accidents and tickets on their records, part-time drivers who don’t drive very much, people who take driver education courses, and families with multiple cars.
